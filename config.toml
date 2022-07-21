@@ -1,0 +1,4 @@
+baseURL = 'http://kleinoers.nl/'
+languageCode = 'nl'
+title = 'Ecodorp Klein Oers'
+theme = 'ananke'

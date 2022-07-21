@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecodorp Klein Oers</title>
+    <link>http://kleinoers.nl/</link>
+    <description>Recent content on Ecodorp Klein Oers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 21 Jul 2022 20:16:16 +0200</lastBuildDate><atom:link href="http://kleinoers.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welkom op de nieuwe site van Ecodorp Klein Oers</title>
+      <link>http://kleinoers.nl/posts/my-first-post/</link>
+      <pubDate>Thu, 21 Jul 2022 20:16:16 +0200</pubDate>
+      
+      <guid>http://kleinoers.nl/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
