@@ -1,4 +1,4 @@
-baseURL = 'http://kleinoers.nl/'
+baseURL = 'https://pinx.gitlab.io/klein-oers/'
 languageCode = 'nl'
 title = 'Ecodorp Klein Oers'
 theme = 'ananke'
